@@ -1,2 +1,2 @@
-# Python-ile-say-tahmin-oyunu
-Python İle Basit Proje
+Python ile yapılabilecek basit bir projedir. 
+
